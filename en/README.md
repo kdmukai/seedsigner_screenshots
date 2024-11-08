@@ -5,7 +5,9 @@
 
 ## Main Menu Views
 
-<table style="border: 0;"><tr><td align="center">  <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView<br/><br/><img src="main_menu_views/MainMenuView.png"></td></tr></table>
+<table style="border: 0;"><tr><td align="center">  <table align="left" style="border: 1px solid gray;"><tr><td align="center">OpeningSplashView<br/><br/><img src="main_menu_views/OpeningSplashView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">OpeningSplashView_no_partner_logos<br/><br/><img src="main_menu_views/OpeningSplashView_no_partner_logos.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView<br/><br/><img src="main_menu_views/MainMenuView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_SDCardStateChangeToast_removed<br/><br/><img src="main_menu_views/MainMenuView_SDCardStateChangeToast_removed.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_SDCardStateChangeToast_inserted<br/><br/><img src="main_menu_views/MainMenuView_SDCardStateChangeToast_inserted.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_RemoveSDCardToast<br/><br/><img src="main_menu_views/MainMenuView_RemoveSDCardToast.png"></td></tr></table>
