@@ -25,7 +25,11 @@
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedMnemonicEntryView<br/><br/><img src="seed_views/SeedMnemonicEntryView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedMnemonicInvalidView<br/><br/><img src="seed_views/SeedMnemonicInvalidView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedFinalizeView<br/><br/><img src="seed_views/SeedFinalizeView.png"></td></tr></table>
-  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddPassphraseView<br/><br/><img src="seed_views/SeedAddPassphraseView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddPassphraseView_lowercase<br/><br/><img src="seed_views/SeedAddPassphraseView_lowercase.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddPassphraseView_uppercase<br/><br/><img src="seed_views/SeedAddPassphraseView_uppercase.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddPassphraseView_digits<br/><br/><img src="seed_views/SeedAddPassphraseView_digits.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddPassphraseView_symbols_1<br/><br/><img src="seed_views/SeedAddPassphraseView_symbols_1.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddPassphraseView_symbols_2<br/><br/><img src="seed_views/SeedAddPassphraseView_symbols_2.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddPassphraseExitDialogView<br/><br/><img src="seed_views/SeedAddPassphraseExitDialogView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedReviewPassphraseView<br/><br/><img src="seed_views/SeedReviewPassphraseView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedOptionsView<br/><br/><img src="seed_views/SeedOptionsView.png"></td></tr></table>
@@ -52,10 +56,13 @@
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRWholeQRView_12_Standard<br/><br/><img src="seed_views/SeedTranscribeSeedQRWholeQRView_12_Standard.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRWholeQRView_24_Compact<br/><br/><img src="seed_views/SeedTranscribeSeedQRWholeQRView_24_Compact.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRWholeQRView_24_Standard<br/><br/><img src="seed_views/SeedTranscribeSeedQRWholeQRView_24_Standard.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRZoomedInView_12_Compact<br/><br/><img src="seed_views/SeedTranscribeSeedQRZoomedInView_12_Compact.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRZoomedInView_12_Standard<br/><br/><img src="seed_views/SeedTranscribeSeedQRZoomedInView_12_Standard.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRConfirmQRPromptView<br/><br/><img src="seed_views/SeedTranscribeSeedQRConfirmQRPromptView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedSelectSeedView<br/><br/><img src="seed_views/SeedSelectSeedView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">AddressVerificationSigTypeView<br/><br/><img src="seed_views/AddressVerificationSigTypeView.png"></td></tr></table>
-  <table align="left" style="border: 1px solid gray;"><tr><td align="center">AddressVerificationSuccessView<br/><br/><img src="seed_views/AddressVerificationSuccessView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddressVerificationView<br/><br/><img src="seed_views/SeedAddressVerificationView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddressVerificationSuccessView<br/><br/><img src="seed_views/SeedAddressVerificationSuccessView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">LoadMultisigWalletDescriptorView<br/><br/><img src="seed_views/LoadMultisigWalletDescriptorView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">MultisigWalletDescriptorView<br/><br/><img src="seed_views/MultisigWalletDescriptorView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedDiscardView<br/><br/><img src="seed_views/SeedDiscardView.png"></td></tr></table>
