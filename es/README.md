@@ -63,13 +63,14 @@
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRZoomedInView_12_Compact<br/><br/><img src="seed_views/SeedTranscribeSeedQRZoomedInView_12_Compact.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRZoomedInView_12_Standard<br/><br/><img src="seed_views/SeedTranscribeSeedQRZoomedInView_12_Standard.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRConfirmQRPromptView<br/><br/><img src="seed_views/SeedTranscribeSeedQRConfirmQRPromptView.png"></td></tr></table>
-  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedSelectSeedView<br/><br/><img src="seed_views/SeedSelectSeedView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedSelectSeedView_address_verification<br/><br/><img src="seed_views/SeedSelectSeedView_address_verification.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">AddressVerificationSigTypeView<br/><br/><img src="seed_views/AddressVerificationSigTypeView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddressVerificationView<br/><br/><img src="seed_views/SeedAddressVerificationView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddressVerificationSuccessView<br/><br/><img src="seed_views/SeedAddressVerificationSuccessView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">LoadMultisigWalletDescriptorView<br/><br/><img src="seed_views/LoadMultisigWalletDescriptorView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">MultisigWalletDescriptorView<br/><br/><img src="seed_views/MultisigWalletDescriptorView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedDiscardView<br/><br/><img src="seed_views/SeedDiscardView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedSelectSeedView_sign_message<br/><br/><img src="seed_views/SeedSelectSeedView_sign_message.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedSignMessageConfirmMessageView<br/><br/><img src="seed_views/SeedSignMessageConfirmMessageView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedSignMessageConfirmAddressView<br/><br/><img src="seed_views/SeedSignMessageConfirmAddressView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedElectrumMnemonicStartView<br/><br/><img src="seed_views/SeedElectrumMnemonicStartView.png"></td></tr></table>
