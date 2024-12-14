@@ -1,5 +1,5 @@
 # SeedSigner Screenshots: Español
-## Translation progress: 83.0%
+## Translation progress: 100.0%
 
 ---
 
