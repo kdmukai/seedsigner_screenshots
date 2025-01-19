@@ -154,5 +154,5 @@
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">UnhandledExceptionView<br/><br/><img src="misc_error_views/UnhandledExceptionView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">NetworkMismatchErrorView<br/><br/><img src="misc_error_views/NetworkMismatchErrorView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">OptionDisabledView<br/><br/><img src="misc_error_views/OptionDisabledView.png"></td></tr></table>
-  <table align="left" style="border: 1px solid gray;"><tr><td align="center">ErrorView<br/><br/><img src="misc_error_views/ErrorView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">ScanView__UnknownQRType<br/><br/><img src="misc_error_views/ScanView__UnknownQRType.png"></td></tr></table>
 </td></tr></table>
